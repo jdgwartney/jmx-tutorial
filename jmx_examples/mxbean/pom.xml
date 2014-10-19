@@ -12,6 +12,6 @@
   <artifactId>mxbean</artifactId>
   <packaging>jar</packaging>
 
-  <name>MXBean</name>
+  <name>mxbean</name>
 
 </project>
